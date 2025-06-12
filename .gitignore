@@ -1,0 +1,27 @@
+# Pliki generowane przez kompilatory
+build/
+Build/
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+*.o
+*.obj
+
+# Pliki generowane przez Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+Release/
+x64/
+Win32/
+
+# Pliki generowane przez VS Code
+.vscode/
+
+# Inne
+*.log
