@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\arkad\projects\NumCppLib\build\CMakeFiles\54378e871eb3ae360f5a68806c5fa080\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0B58F38E-3630-37E0-906F-508F8A6F2923}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

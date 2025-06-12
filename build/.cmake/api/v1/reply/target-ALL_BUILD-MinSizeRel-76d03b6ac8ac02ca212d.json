@@ -1,0 +1,57 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "numcpplib::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "example_linear_algebra::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "example_approximation::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "example_interpolation::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "example_integration::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "example_differential_equations::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "example_nonlinear_equations::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "run_tests::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
