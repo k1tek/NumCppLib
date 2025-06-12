@@ -1,5 +1,5 @@
 # NumCppLib - Biblioteka Metod Numerycznych w C++
-
+Wykonali: Arek Baczyński, Bartosz Czapla
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![C++ Standard](https://img.shields.io/badge/c%2B%2B-17-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
